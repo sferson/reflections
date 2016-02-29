@@ -1,0 +1,8 @@
+	What happens when you initialize a repository? Why do you need to do it?
+
+The metadata folder is created and "initialised" - whatever that means.  You presumably need to have placeholders for the metadata before you start committing things!
+
+
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area contains only files that are going to be committed next, whereas the working directory and the repository both contain all the files.
